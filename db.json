@@ -1,0 +1,7 @@
+{
+    "database" : [{
+        "id": 0,
+        "user": "testing API",
+        "passowrd": "testing password"
+    }]
+}
